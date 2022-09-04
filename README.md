@@ -1,6 +1,7 @@
 # OpenGL-Desert-Motel
+<img src="output.png" width="500">
 <br>
-Tried to create a desert view which includes:<br>
+<h3>Tried to create a desert view which includes :</h3><br>
 •	Sky<br>
 •	Sun<br>
 •	Bird<br>
@@ -12,12 +13,8 @@ Tried to create a desert view which includes:<br>
 • benches<br>
 •	Wind Fan<br>
 •	River<br>
-<h3>Also added a litte bit of animations and sound.</h3>
+<h5>Also added a litte bit of animations and sound.</h5>
 <br><br><br>
-Sample of Desert Motel:<br>
-
-
-<img src="output.png" width="500">
 
 ## Use Glut file to It
 
