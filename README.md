@@ -18,3 +18,8 @@ Sample of Desert Motel:<br>
 
 
 <img src="output.png" width="500">
+
+## Use Glut file to It
+
+> Glut Supporting File : <em>[Download](https://github.com/solimanhossain/openGL-desert-motel/blob/main/glut.zip?raw=true)</em><br>
+> Run Code on Codeblock : <em>[Tutorial](https://youtu.be/0Q7Bs7kiaKs)</em>
