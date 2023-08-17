@@ -19,4 +19,4 @@
 ## Use Glut file to It
 
 > Glut Supporting File : <em>[Download](https://github.com/solimanhossain/openGL-desert-motel/blob/main/glut.zip?raw=true)</em><br>
-> Run Code on Codeblock : <em>[Tutorial](https://youtu.be/0Q7Bs7kiaKs)</em>
+> Run Code on Codeblock : <em>[Tutorial](https://raw.githubusercontent.com/solimanhossain/openGL-desert-motel/main/OpenGl.mp4)</em>
